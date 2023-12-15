@@ -1,6 +1,4 @@
-# AngularCrash
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
+# Task Tracker Application
 
 ## Development server
 
@@ -16,7 +14,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests.
 
 ## Running end-to-end tests
 
